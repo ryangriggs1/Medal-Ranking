@@ -1,0 +1,10 @@
+C:\Users\ryang\source\repos\Medals\Medals\bin\Debug\Medals.exe.config
+C:\Users\ryang\source\repos\Medals\Medals\bin\Debug\Medals.exe
+C:\Users\ryang\source\repos\Medals\Medals\bin\Debug\Medals.pdb
+C:\Users\ryang\source\repos\Medals\Medals\obj\Debug\Medals.csprojAssemblyReference.cache
+C:\Users\ryang\source\repos\Medals\Medals\obj\Debug\Medals.Form1.resources
+C:\Users\ryang\source\repos\Medals\Medals\obj\Debug\Medals.Properties.Resources.resources
+C:\Users\ryang\source\repos\Medals\Medals\obj\Debug\Medals.csproj.GenerateResource.cache
+C:\Users\ryang\source\repos\Medals\Medals\obj\Debug\Medals.csproj.CoreCompileInputs.cache
+C:\Users\ryang\source\repos\Medals\Medals\obj\Debug\Medals.exe
+C:\Users\ryang\source\repos\Medals\Medals\obj\Debug\Medals.pdb
